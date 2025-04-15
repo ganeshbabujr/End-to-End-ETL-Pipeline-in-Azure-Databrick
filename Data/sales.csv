@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product_id,quantity,revenue
+O1,2024-01-01,C1,P1,1,1000.0
+O2,2024-01-02,C2,P2,2,1200.0
+O3,2024-01-03,C3,P3,1,800.0
+O4,2024-01-04,C4,P4,3,900.0
+O5,2024-01-05,C5,P5,2,500.0
